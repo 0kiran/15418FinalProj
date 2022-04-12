@@ -2,6 +2,9 @@
 Ben Cagan and Kiran Khambhla: Path Tracing with CUDA
 **BVH Tree Ray Tracing with CUDA**
 
+#WE ARE NO LONGER USING THIS REPO, MOVED TO 
+https://github.com/bcagan/15418RayTracerFinal/blob/main/README.md
+
 **Summary:**
 
 We are going to implement simple path tracing through BVH trees on the NVIDIA GPUs in the lab. Will have basic material support, with possible reflections and refractions added later, on custom scenes loaded in through files.
